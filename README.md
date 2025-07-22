@@ -120,6 +120,14 @@ python manage.py runserver
 
 ---
 
+### 🔐 Default Superuser (for demo/testing)
+
+Use the following credentials to log in at `/admin/`:
+
+- **Username:** `admin`
+- **Password:** `shri1234`
+
+
 ## 🧪 API Testing (Postman)
 
 You can import the Postman collection ("https://shrishtisharma-971044.postman.co/workspace/SHRISHTI-SHARMA's-Workspace~6c32bc03-3b41-4468-87f5-5f6c20cb6972/collection/46939097-ce11bdd3-19f2-4b74-a01d-4331a31d6998?action=share&source=copy-link&creator=46939097") and test:
@@ -152,7 +160,7 @@ kpa_backend/
 
 **Shrishti Sharma**
 
-Email: [your-email@example.com](shrishtisharma59@gmail.com)
+Email:(shrishtisharma59@gmail.com)
 
 
 ---
@@ -163,12 +171,3 @@ This project is for academic and internal submission use only.
 
 ```
 
----
-
-### ✅ What to do next:
-
-1. Replace `your-username`, `your-email@example.com`, and the video link.
-2. Push this `README.md` to your GitHub repo root.
-
-Would you like help pushing it to GitHub now (step-by-step)?
-```
